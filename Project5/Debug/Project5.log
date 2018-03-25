@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\антон\source\repos\project5\project5\source.cpp(12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\антон\source\repos\project5\project5\source.cpp(21): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\антон\source\repos\project5\project5\source.cpp(40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\антон\source\repos\project5\project5\source.cpp(41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\антон\source\repos\project5\project5\source.cpp(45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\антон\source\repos\project5\project5\source.cpp(46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project5.vcxproj -> C:\Users\Антон\Source\Repos\Project5\Debug\Project5.exe
